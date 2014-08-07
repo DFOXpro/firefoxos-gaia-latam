@@ -1,0 +1,48 @@
+{
+	"homescreens": [
+		[
+			["apps", "communications", "dialer"],
+			["apps", "browser"],
+			["apps", "music"],
+			["apps", "fm"]
+		], [
+		], [	
+			["apps", "camera"],
+			["apps", "clock"],
+			["apps", "email"],
+			["apps", "communications", "contacts"],
+
+			["apps", "calendar"],
+			["apps", "gallery"],
+			["apps", "costcontrol"],
+			["apps", "settings"],
+
+			["apps", "sms"],
+			["apps", "video"],
+			["external-apps", "notes"],
+			["external-apps", "marketplace.firefox.com"],
+
+			["external-apps", "calculator"],
+			["external-apps", "qrCodeScanner"],
+			["external-apps", "heremaps"],
+			["external-apps", "explorer"]
+		], [
+			["external-apps", "telegram"],
+			["external-apps", "loquiIm"],
+			["external-apps", "openWapp"],
+			["external-apps", "line"],
+
+			["external-apps", "facebook"],
+			["external-apps", "twitter"],
+			["external-apps", "9gag"],
+			["external-apps", "elTiempo"],
+
+			["external-apps", "wikipedia"],
+			["external-apps", "youtube"],
+			["external-apps", "soundCloud"],
+			["external-apps", "openYouTube"]
+		],[
+			["external-apps", "deletion"]
+		]
+	]
+}

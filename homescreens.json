@@ -1,30 +1,25 @@
-{"homescreens": [
-  [
-    ["apps", "communications", "dialer"],
-    ["apps", "sms"],
-    ["apps", "browser"],
-    ["apps", "camera"],
-    ["apps", "fm"]
-  ], [
-    ["external-apps", "marketplace.firefox.com"],
-    ["external-apps", "poppit"],
-    ["external-apps", "accuweather"],
-    ["apps", "gallery"],
-    ["apps", "costcontrol"],
-    ["apps", "settings"],
-    ["external-apps", "calculator"],
-    ["apps", "email"],
-    ["apps", "communications", "contacts"],
-    ["apps", "calendar"],
-    ["external-apps", "tume"],
-    ["external-apps", "facebook"],
-    ["external-apps", "twitter"],
-    ["external-apps", "mimovistar"]
-  ], [
-    ["external-apps", "wikipedia"],
-    ["apps", "music"],
-    ["apps", "video"],
-    ["apps", "clock"],
-    ["external-apps", "gamepack"]
-  ]
-]}
+{
+	"homescreens": [
+		[
+			["apps", "communications", "dialer"],
+			["apps", "browser"],
+			["apps", "music"],
+			["apps", "fm"]
+		], [
+		], [	
+			["apps", "camera"],
+			["apps", "clock"],
+			["apps", "email"],
+			["apps", "communications", "contacts"],
+
+			["apps", "calendar"],
+			["apps", "gallery"],
+			["apps", "costcontrol"],
+			["apps", "settings"],
+
+			["apps", "sms"],
+			["apps", "video"],
+			["external-apps", "marketplace.firefox.com"]
+		]
+	]
+}
